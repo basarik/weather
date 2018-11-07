@@ -1,0 +1,409 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "ADANA",
+      "country": "TR"
+    },
+    {
+      "id": 2,
+      "name": "ADIYAMAN",
+      "country": "TR"
+    },
+    {
+      "id": 3,
+      "name": "AFYONKARAHİSAR",
+      "country": "TR"
+    },
+    {
+      "id": 4,
+      "name": "AĞRI",
+      "country": "TR"
+    },
+    {
+      "id": 5,
+      "name": "AMASYA",
+      "country": "TR"
+    },
+    {
+      "id": 6,
+      "name": "ANKARA",
+      "country": "TR"
+    },
+    {
+      "id": 7,
+      "name": "ANTALYA",
+      "country": "TR"
+    },
+    {
+      "id": 8,
+      "name": "ARTVİN",
+      "country": "TR"
+    },
+    {
+      "id": 9,
+      "name": "AYDIN",
+      "country": "TR"
+    },
+    {
+      "id": 10,
+      "name": "BALIKESİR",
+      "country": "TR"
+    },
+    {
+      "id": 11,
+      "name": "BİLECİKK",
+      "country": "TR"
+    },
+    {
+      "id": 12,
+      "name": "BİNGÖL",
+      "country": "TR"
+    },
+    {
+      "id": 13,
+      "name": "BİTLİS",
+      "country": "TR"
+    },
+    {
+      "id": 14,
+      "name": "BOLU",
+      "country": "TR"
+    },
+    {
+      "id": 15,
+      "name": "BURDUR",
+      "country": "TR"
+    },
+    {
+      "id": 16,
+      "name": "BURSA",
+      "country": "TR"
+    },
+    {
+      "id": 17,
+      "name": "ÇANAKKALE",
+      "country": "TR"
+    },
+    {
+      "id": 18,
+      "name": "ÇANKIRI",
+      "country": "TR"
+    },
+    {
+      "id": 19,
+      "name": "ÇORUM",
+      "country": "TR"
+    },
+    {
+      "id": 20,
+      "name": "DENİZLİ",
+      "country": "TR"
+    },
+    {
+      "id": 21,
+      "name": "DİYARBAKIR",
+      "country": "TR"
+    },
+    {
+      "id": 22,
+      "name": "EDİRNE",
+      "country": "TR"
+    },
+    {
+      "id": 23,
+      "name": "ELAZIĞ",
+      "country": "TR"
+    },
+    {
+      "id": 24,
+      "name": "ERZİNCAN",
+      "country": "TR"
+    },
+    {
+      "id": 25,
+      "name": "ERZURUM",
+      "country": "TR"
+    },
+    {
+      "id": 26,
+      "name": "ESKİŞEHİR",
+      "country": "TR"
+    },
+    {
+      "id": 27,
+      "name": "GAZİANTEP",
+      "country": "TR"
+    },
+    {
+      "id": 28,
+      "name": "GİRESUN",
+      "country": "TR"
+    },
+    {
+      "id": 29,
+      "name": "GÜMÜŞHANE",
+      "country": "TR"
+    },
+    {
+      "id": 30,
+      "name": "HAKKARİ",
+      "country": "TR"
+    },
+    {
+      "id": 31,
+      "name": "HATAY",
+      "country": "TR"
+    },
+    {
+      "id": 32,
+      "name": "ISPARTA",
+      "country": "TR"
+    },
+    {
+      "id": 33,
+      "name": "MERSİN",
+      "country": "TR"
+    },
+    {
+      "id": 34,
+      "name": "İSTANBUL",
+      "country": "TR"
+    },
+    {
+      "id": 35,
+      "name": "İZMİR",
+      "country": "TR"
+    },
+    {
+      "id": 36,
+      "name": "KARS",
+      "country": "TR"
+    },
+    {
+      "id": 37,
+      "name": "KASTAMONU",
+      "country": "TR"
+    },
+    {
+      "id": 38,
+      "name": "KAYSERİ",
+      "country": "TR"
+    },
+    {
+      "id": 39,
+      "name": "KIRKLARELİ",
+      "country": "TR"
+    },
+    {
+      "id": 40,
+      "name": "KIRŞEHİR",
+      "country": "TR"
+    },
+    {
+      "id": 41,
+      "name": "KOCAELİ",
+      "country": "TR"
+    },
+    {
+      "id": 42,
+      "name": "KONYA",
+      "country": "TR"
+    },
+    {
+      "id": 43,
+      "name": "KÜTAHYA",
+      "country": "TR"
+    },
+    {
+      "id": 44,
+      "name": "MALATYA",
+      "country": "TR"
+    },
+    {
+      "id": 45,
+      "name": "MANİSA",
+      "country": "TR"
+    },
+    {
+      "id": 46,
+      "name": "KAHRAMANMARAŞ",
+      "country": "TR"
+    },
+    {
+      "id": 47,
+      "name": "MARDİN",
+      "country": "TR"
+    },
+    {
+      "id": 48,
+      "name": "MUĞLA",
+      "country": "TR"
+    },
+    {
+      "id": 49,
+      "name": "MUŞ",
+      "country": "TR"
+    },
+    {
+      "id": 50,
+      "name": "NEVŞEHİR",
+      "country": "TR"
+    },
+    {
+      "id": 51,
+      "name": "NİĞDE",
+      "country": "TR"
+    },
+    {
+      "id": 52,
+      "name": "ORDU",
+      "country": "TR"
+    },
+    {
+      "id": 53,
+      "name": "RİZE",
+      "country": "TR"
+    },
+    {
+      "id": 54,
+      "name": "SAKARYA",
+      "country": "TR"
+    },
+    {
+      "id": 55,
+      "name": "SAMSUN",
+      "country": "TR"
+    },
+    {
+      "id": 56,
+      "name": "SİİRT",
+      "country": "TR"
+    },
+    {
+      "id": 57,
+      "name": "SİNOP",
+      "country": "TR"
+    },
+    {
+      "id": 58,
+      "name": "SİVAS",
+      "country": "TR"
+    },
+    {
+      "id": 59,
+      "name": "TEKİRDAĞ",
+      "country": "TR"
+    },
+    {
+      "id": 60,
+      "name": "TOKAT",
+      "country": "TR"
+    },
+    {
+      "id": 61,
+      "name": "TRABZON",
+      "country": "TR"
+    },
+    {
+      "id": 62,
+      "name": "TUNCELİ",
+      "country": "TR"
+    },
+    {
+      "id": 63,
+      "name": "ŞANLIURFA",
+      "country": "TR"
+    },
+    {
+      "id": 64,
+      "name": "UŞAK",
+      "country": "TR"
+    },
+    {
+      "id": 65,
+      "name": "VAN",
+      "country": "TR"
+    },
+    {
+      "id": 66,
+      "name": "YOZGAT",
+      "country": "TR"
+    },
+    {
+      "id": 67,
+      "name": "ZONGULDAK",
+      "country": "TR"
+    },
+    {
+      "id": 68,
+      "name": "AKSARAY",
+      "country": "TR"
+    },
+    {
+      "id": 69,
+      "name": "BAYBURT",
+      "country": "TR"
+    },
+    {
+      "id": 70,
+      "name": "KARAMAN",
+      "country": "TR"
+    },
+    {
+      "id": 71,
+      "name": "KIRIKKALE",
+      "country": "TR"
+    },
+    {
+      "id": 72,
+      "name": "BATMAN",
+      "country": "TR"
+    },
+    {
+      "id": 73,
+      "name": "ŞIRNAK",
+      "country": "TR"
+    },
+    {
+      "id": 74,
+      "name": "BARTIN",
+      "country": "TR"
+    },
+    {
+      "id": 75,
+      "name": "ARDAHAN",
+      "country": "TR"
+    },
+    {
+      "id": 76,
+      "name": "IĞDIR",
+      "country": "TR"
+    },
+    {
+      "id": 77,
+      "name": "YALOVA",
+      "country": "TR"
+    },
+    {
+      "id": 78,
+      "name": "KARABüK",
+      "country": "TR"
+    },
+    {
+      "id": 79,
+      "name": "KİLİS",
+      "country": "TR"
+    },
+    {
+      "id": 80,
+      "name": "OSMANİYE",
+      "country": "TR"
+    },
+    {
+      "id": 81,
+      "name": "DÜZCE",
+      "country": "TR"
+    }
+  ]
+}

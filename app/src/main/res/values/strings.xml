@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="loadingMessage">Lütfen bekleyin, bilgiler alınıyor…</string>
+    <string name="mainPage">Ana Sayfa</string>
+    <string name="camera">Kamera</string>
+    <string name="setting">Ayarlar</string>
+    <string name="toolCity">Kastamonu</string>
+    <string name="toolTemperature">12 Derece</string>
+    <string name="toolTemperatureMin">10 Derece</string>
+    <string name="toolTemperatureMax">14 Derece</string>
+    <string name="selectCity">Şehir Seçiniz</string>
+    <string name="pelaseSelectCity">Lütfen bir şehir seçiniz</string>
+    <string name="battery">Pil Seviyesi</string>
+    <string name="loading">Yapım Aşamasında</string>
+    <string name="wifi">Wifi Durumu</string>
+    <string name="open">Açık</string>
+    <string name="closed">Kapalı</string>
+    <string name="min">En Düşük Sıcaklık</string>
+    <string name="max">En Yüksek Sıcaklık</string>
+
+</resources>

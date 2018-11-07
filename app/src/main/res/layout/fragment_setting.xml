@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/selectCity"
+              android:padding="@dimen/dp_15"
+              android:gravity="center"/>
+
+    <TextView android:layout_width="match_parent"
+              android:id="@+id/tvCity"
+              android:padding="@dimen/dp_15"
+              android:background="@color/black"
+              android:layout_margin="@dimen/dp_15"
+              android:textColor="@color/colorPrimary"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="10dp"
+              android:gravity="center"/>
+
+    <TextView android:layout_width="match_parent"
+              android:id="@+id/tvBattery"
+              android:padding="@dimen/dp_15"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="10dp"
+              android:text="@string/battery"
+              android:gravity="center"/>
+
+
+    <ProgressBar
+            android:id="@+id/progressBar"
+            android:padding="@dimen/dp_10"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    <TextView android:layout_width="match_parent"
+              android:id="@+id/tvWifi"
+              android:padding="@dimen/dp_15"
+              android:layout_height="wrap_content"
+              android:layout_centerVertical="true"
+              android:layout_marginTop="10dp"
+              android:text="@string/wifi"
+              android:gravity="center"/>
+
+    <Switch android:layout_width="match_parent"
+            android:layout_centerVertical="true"
+            android:id="@+id/sWifi"
+            android:layout_toRightOf="@+id/tvWifi"
+            android:layout_height="wrap_content"/>
+
+</LinearLayout>
