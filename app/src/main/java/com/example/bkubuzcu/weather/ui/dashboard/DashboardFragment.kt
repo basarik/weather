@@ -38,7 +38,7 @@ class DashboardFragment : BaseFragment(), DashboardContact.View {
     override fun layoutResource() = R.layout.fragment_dashboard
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        presenter = App.instance.presenterFactory.categoryPresenter()
+        presenter = App.instance.presenterFactory.dashboardPresenter()
         presenter.attach(this)
         refresh()
     }

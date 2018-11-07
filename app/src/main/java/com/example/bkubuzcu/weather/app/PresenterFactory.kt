@@ -22,11 +22,17 @@ open class PresenterFactory(private val context: Context) {
     open fun dashboardRepository(): DashboardRepository = DashboardRepositoryImpl()
 
     /**
-     * categoryPresenter
+     * dashboardPresenter
      */
-    fun categoryPresenter(): DashboardContact.Presenter = DashboardPresenter(dashboardRepository())
+    fun dashboardPresenter(): DashboardContact.Presenter = DashboardPresenter(dashboardRepository())
 
+    /**
+     * settingRepository
+     */
     open fun settingRepository():SettingRepository = SettingRepositoryImpl(context)
 
+    /**
+     * settingPresenter
+     */
     fun settingPresenter(): SettingContact.Presenter = SettingPresenter(settingRepository())
 }
